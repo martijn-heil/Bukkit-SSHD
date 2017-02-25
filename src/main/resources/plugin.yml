@@ -1,4 +1,4 @@
 name: SSHD
-version: "1.2"
+version: "1.3"
 author: Ryan Michela
 main: com.ryanmichela.sshd.SshdPlugin
